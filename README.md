@@ -55,26 +55,26 @@
   <tr>
     <!-- Digital Logic -->
     <td align="center" width="300" height="150">
-      <img src="https://img.icons8.com/?size=100&id=7xYxCS1VZZkL&format=png&color=000000" width="80"/><br/>
+      <img src="DLD.png" width="80"/><br/>
       <b>Digital Logic</b>
     </td>
 
     <!-- Verilog -->
     <td align="center" width="300" height="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" width="80"/><br/>
+      <img src="verilog.png" width="80"/><br/>
       <b>Verilog</b>
     </td>
   </tr>
   <tr>
     <!-- AWS & Oracle -->
     <td align="center" width="300" height="150">
-      <img src="https://skillicons.dev/icons?i=aws" width="80"/><br/>
+      <img src="cloud.png" width="80"/><br/>
       <b>AWS & Oracle</b>
     </td>
 
     <!-- NI Multisim -->
     <td align="center" width="300" height="150">
-      <img src="https://img.icons8.com/?size=100&id=UBlhcbg3ph0L&format=png&color=000000" width="80"/><br/>
+      <img src="multisim.png" width="80"/><br/>
       <b>NI Multisim</b>
     </td>
   </tr>
