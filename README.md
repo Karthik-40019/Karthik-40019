@@ -48,15 +48,18 @@
   </a>
 
 </div>
+<div style="white-space: nowrap;">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
+         width="120" style="margin-right: 100px;">
+  </a>
 
-  
-##  MATLAB 
-<a href="https://github.com/Karthik-40019/MATLAB" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" 
-       alt="MATLAB Projects" 
-       width="120">
+  <a href="https://github.com/Karthik-40019/MATLAB" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" 
+         width="120">
+  </a>
+</div>
 
-</a>  
 
 
 
