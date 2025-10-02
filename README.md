@@ -11,6 +11,8 @@
   <img width="12" />
   <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/verilog.png" height="60" alt="verilog logo"  />
   <img width="12" />
+  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/cadence.jpg" height="60" alt="cadence logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/sql.png" height="60" alt="sql logo"  />
