@@ -9,7 +9,9 @@
 </p>
 
 ###
-
+<p align="center">
+<img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/git.gif" width="550">
+</p>
 <h1 align="center"> 🛠️ Tech Stack</h1>
 
   <b>Technical Skills:</b> Verilog HDL, Digital Design, IOT, SQL ,Java<br>
