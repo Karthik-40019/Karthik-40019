@@ -1,21 +1,11 @@
 <h1 align="center">👋 Hi, I'm Karthik Potnuru</h1>
 <h3 align="center">📡 Electronics & Communication Engineering Student | VLSI & Digital Design Enthusiast</h3>
 
-<p align="center">
-  🎓 3rd Year ECE Student @ <b>KLH University, Hyderabad</b> <br>
-  💡 Passionate about <b>VLSI Design, Verilog, and Cadence Tools</b> <br>
-  🔬 Exploring <b>Chip Design, Digital Logic, and Hardware Modeling</b> <br>
-  🚀 Aspiring to work in <b>top VLSI companies</b> and contribute to cutting-edge semiconductor innovations
-</p>
-
 ###
 <p align="center">
 <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/git.gif" width="550">
 </p>
 <h1 align="center"> 🛠️ Tech Stack</h1>
-
-  <b>Technical Skills:</b> Verilog HDL, Digital Design, IOT, SQL ,Java<br>
-  <b>EDA & Platforms:</b> Cadence Virtuoso, Arduino/ESP, NI Multisim, Proteus, MATLAB,  AWS(Basic)<br>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
