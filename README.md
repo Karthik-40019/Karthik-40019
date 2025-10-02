@@ -1,10 +1,21 @@
-<h1 align="center">Hey 👋 This is Karthik</h1>
+<h1 align="center">👋 Hi, I'm Karthik Potnuru</h1>
+<h3 align="center">📡 Electronics & Communication Engineering Student | VLSI & Digital Design Enthusiast</h3>
+
+<p align="center">
+  🎓 3rd Year ECE Student @ <b>KLH University, Hyderabad</b> <br>
+  💡 Passionate about <b>VLSI Design, Verilog, and Cadence Tools</b> <br>
+  🔬 Exploring <b>Chip Design, Digital Logic, and Hardware Modeling</b> <br>
+  🚀 Aspiring to work in <b>top VLSI companies</b> and contribute to cutting-edge semiconductor innovations
+</p>
 
 ###
 
-<!-- Skills Section -->
-<h2 align="center">🛠️ Skills</h2>
-<div align="center">
+<h1 align="center"> 🛠️ Tech Stack</h1>
+
+  <b>Technical Skills:</b> Verilog HDL, Digital Design, IOT, SQL ,Java<br>
+  <b>EDA & Platforms:</b> Cadence Virtuoso, Arduino/ESP, NI Multisim, Proteus, MATLAB,  AWS(Basic)<br>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
   <img width="12" />
   <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/DLD.png" height="50" alt="dld logo"  />
@@ -13,41 +24,37 @@
   <img width="12" />
   <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/cadence.jpg" height="60" alt="cadence logo"  />
   <img width="12" />
+  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/proteus.png" height="60" alt="cadence logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/sql.png" height="60" alt="sql logo"  />
+  <img width="12" />
+  
 </div>
+</p>
 
-###
 
-<!-- Coding Profiles Section -->
-<h2 align="center">🌐 Coding Profiles</h2>
-<div align="center">
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/karthik-potnuru-a0b372310/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="50" alt="LinkedIn" />
+<h1 align="center">🌐 Coding Profiles</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthik-potnuru-a0b372310/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/karthik7565/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="50" alt="LeetCode" />
+  <a href="https://leetcode.com/u/karthik7565/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/karthik7565" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" height="50" alt="HackerRank" />
+  <a href="https://www.hackerrank.com/profile/karthik7565">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/karthik7565" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" height="50" alt="CodeChef" />
+  <a href="https://www.codechef.com/users/karthik7565">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/karthik7565" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" height="50" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/karthik7565">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+</p>
+
 
 </div>
 <div style="white-space: nowrap;">
