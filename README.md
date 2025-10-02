@@ -55,7 +55,7 @@
   </a>
 
   <a href="https://github.com/Karthik-40019/MATLAB" target="_blank">
-    <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/matlab-removebg-preview.png" 
+    <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/matlab.png" 
          width="135">
   </a>
 </div>
