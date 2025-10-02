@@ -7,13 +7,13 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
+  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/DLD.png" height="50" alt="dld logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
+  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/verilog.png" height="60" alt="verilog logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/sql.png" height="60" alt="sql logo"  />
 </div>
 
 ###
