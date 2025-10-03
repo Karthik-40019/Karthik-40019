@@ -5,9 +5,9 @@
 <p align="center">
 <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/git.gif" width="550">
 </p>
-<h2 align="center"> 🛠️ TECH STACK</h2>
+<h3 align="center"> 🛠️ TECH STACK</h3>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
   <img width="12" />
   <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/DLD.png" height="50" alt="dld logo"  />
@@ -28,8 +28,8 @@
 
 
 
-<h2 align="center">🌐 CODING PROFILES</h2>
-<p align="center">
+<h3 align="center">🌐 CODING PROFILES</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/karthik-potnuru-a0b372310/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -49,7 +49,7 @@
 
 </div>
 
-<h2 align="center">📝 NOTES & REFERENCES</h2>
+<h3 align="center">📝 NOTES & REFERENCES</h3>
 <div style="white-space: nowrap;">
   <a href="https://github.com/Karthik-40019/AWS-Cloud-Practitioner" target="_blank">
     <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/aws.jpg" 
