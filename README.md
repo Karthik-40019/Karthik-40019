@@ -48,26 +48,23 @@ I'm actively seeking opportunities to apply my skills in top VLSI companies and 
 </p>
 </div>
 
+
 ## 📊 GitHub Stats
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthik-40019&show_icons=true&theme=radical" />
+</div>
+
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-40019&theme=radical" />
+</div>
+
+</div>
+
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Karthik-40019&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-40019&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-40019&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-40019&layout=compact&theme=radical" />
 </div>
 
 ## 🤝 Let's Connect!
