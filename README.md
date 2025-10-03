@@ -51,11 +51,11 @@
 
 <h2 align="center">📝 NOTES & REFERENCES</h2>
 <div style="white-space: nowrap;">
-  <a href="https://aws.amazon.com/" target="_blank">
+  <a href="https://github.com/Karthik-40019/AWS-Cloud-Practitioner" target="_blank">
     <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/aws.jpg" 
          width="120" style="margin-right: 100px;">
   </a>
-  <a href="https://github.com/Karthik-40019/AWS-Cloud-Practitioner" target="_blank">
+  <a href="" target="_blank">
     <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/Oracle.png" 
          width="180" style="margin-right: 100px;">
   </a>
