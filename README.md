@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/cadence.jpg" height="60" alt="cadence logo"  />
   <img width="12" />
-  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/proteus.png" height="60" alt="cadence logo"  />
+  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/proteus.png" height="55" alt="cadence logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
