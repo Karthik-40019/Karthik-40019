@@ -71,6 +71,9 @@ I'm actively seeking opportunities to apply my skills in top VLSI companies and 
   </tr>
 </table>
 
+![Profile views](https://komarev.com/ghpvc/?username=Karthik-40019&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+
 </div>
 
 ## 🤝 Let's Connect!
