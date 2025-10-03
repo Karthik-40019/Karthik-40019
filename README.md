@@ -1,72 +1,81 @@
-<h2 align="center">👋 Hi, I'm KARTHIK POTNURU</h2>
-<h4 align="center">📡 Electronics & Communication Engineering Student | VLSI & Digital Design Enthusiast</h4>
-
-###
-<p align="center">
-<img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/git.gif" width="550">
-</p>
-<h3 align="center"> 🛠️ TECH STACK</h3>
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/DLD.png" height="50" alt="dld logo"  />
-  <img width="12" />
-  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/verilog.png" height="60" alt="verilog logo"  />
-  <img width="12" />
-  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/cadence.jpg" height="60" alt="cadence logo"  />
-  <img width="12" />
-  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/proteus.png" height="55" alt="cadence logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/sql.png" height="60" alt="sql logo"  />
-  <img width="12" />
-  
+<div align="center">
+  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/linkedin_banner.jpg" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 10px;" />
 </div>
+<h1 align="center">Hi, I'm Karthik</h1>
+<h3 align="center">📡 Electronics & Communication Engineering Student | VLSI & Digital Design Enthusiast</h3>
+
+---
+
+<p align="center">
+  <strong>Digital Design</strong> | <strong>VLSI</strong> | <strong>IoT</strong>
 </p>
 
+<p align="center">
+I'm a passionate Electronics and Communication Engineering student at KLH University, Hyderabad, currently in my third year. My primary focus is on VLSI Design with strong expertise in Verilog and Cadence tools. 
+I'm actively seeking opportunities to apply my skills in top VLSI companies and continue growing in areas like chip design, digital logic, and hardware modeling.
+</p>
+
+<div align="center">
+
+### 💻 My Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Digital_Logic-8A2BE2?style=for-the-badge&logo=circuit-diagram&logoColor=white" title="Digital Logic Design" />
+   <img width="5" />
+  <img src="https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=verilog&logoColor=white" title="Verilog" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Cadence-FF0000?style=for-the-badge&logo=cadence&logoColor=white" title="Cadence" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Proteus-228B22?style=for-the-badge&logo=proteus&logoColor=white" title="Proteus" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" title="MATLAB" />
+ <img width="5" />
+  <img src="https://img.shields.io/badge/AWS-FFD43B?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" title="C Programming" />
+  <img width="5" />
 
 
-<h3 align="center">🌐 CODING PROFILES</h3>
-<p align="left">
+  
+  
+</p>
+ <h4 align="center">Beyond the academics</h4>
+ <p align="center">
+  <strong>🏏 Cricket Enthusiast</strong> | <strong>🎬 Movie Buff</strong> | <strong>🎵 Music Lover</strong>
+</p>
+</div>
+
+## 📈 GitHub Stats
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthik-40019&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-40019&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-40019&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <i>Feel free to reach out for collaborations😊</i>
+</p>
+
+<p align="center">
+  <a href="mailto:karthikpotnuru7565@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/karthik-potnuru-a0b372310/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/karthik7565/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/karthik7565">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/karthik7565">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/karthik7565">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
 </p>
 
+---
+
+
+
 </div>
-
-<h3 align="center">📝 NOTES & REFERENCES</h3>
-<div style="white-space: nowrap;">
-  <a href="https://github.com/Karthik-40019/AWS-Cloud-Practitioner" target="_blank">
-    <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/aws.jpg" 
-         width="120" style="margin-right: 100px;">
-  </a>
-  <a href="" target="_blank">
-    <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/Oracle.png" 
-         width="180" style="margin-right: 100px;">
-  </a>
-
-  <a href="https://github.com/Karthik-40019/MATLAB" target="_blank">
-    <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/matlab.png" 
-         width="125">
-  </a>
-</div>
-
-
-
-
-
