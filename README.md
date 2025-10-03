@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/linkedin_banner.jpg" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 10px;" />
+  <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/github-banner.png" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 10px;" />
 </div>
 <h1 align="center">Hi, I'm Karthik</h1>
 <h3 align="center">📡 Electronics & Communication Engineering Student | VLSI & Digital Design Enthusiast</h3>
