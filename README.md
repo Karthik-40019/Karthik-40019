@@ -33,7 +33,7 @@ I'm actively seeking opportunities to apply my skills in top VLSI companies and 
   <img width="5" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" title="MySQL" />
   <img width="5" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" title="C Programming" />
   <img width="5" />
@@ -76,7 +76,7 @@ I'm actively seeking opportunities to apply my skills in top VLSI companies and 
 ## 🤝 Let's Connect!
 
 <p align="center">
-   <h5 align="center">Feel free to reach out for collaborations😊</h5>
+  <i>Feel free to reach out for collaborations😊</i>
 </p>
 
 <p align="center">
