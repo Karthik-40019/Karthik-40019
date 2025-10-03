@@ -48,16 +48,27 @@ I'm actively seeking opportunities to apply my skills in top VLSI companies and 
 </p>
 </div>
 
-## 📈 GitHub Stats
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthik-40019&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-40019&theme=radical" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-40019&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Karthik-40019&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-40019&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-40019&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 🤝 Let's Connect!
 
@@ -66,9 +77,6 @@ I'm actively seeking opportunities to apply my skills in top VLSI companies and 
 </p>
 
 <p align="center">
-  <a href="mailto:karthikpotnuru7565@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/karthik-potnuru-a0b372310/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
