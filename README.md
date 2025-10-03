@@ -48,23 +48,29 @@ I'm actively seeking opportunities to apply my skills in top VLSI companies and 
 </p>
 </div>
 
-
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthik-40019&show_icons=true&theme=radical" />
-</div>
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-40019&theme=radical" />
-</div>
-
-</div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-40019&layout=compact&theme=radical" />
+
+<table>
+  <tr>
+    <td width="50%" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Karthik-40019&show_icons=true&theme=radical&hide_border=true" style="width: 100%;" />
+    </td>
+    <td width="50%" style="padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-40019&theme=radical&hide_border=true" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-40019&layout=compact&theme=radical&hide_border=true" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ## 🤝 Let's Connect!
