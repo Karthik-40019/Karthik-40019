@@ -76,7 +76,7 @@ I'm actively seeking opportunities to apply my skills in top VLSI companies and 
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <i>Feel free to reach out for collaborations😊</i>
+   <h5 align="center">Feel free to reach out for collaborations😊</h5>
 </p>
 
 <p align="center">
