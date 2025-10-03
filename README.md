@@ -15,6 +15,28 @@ I'm a passionate Electronics and Communication Engineering student at KLH Univer
 I'm actively seeking opportunities to apply my skills in top VLSI companies and continue growing in areas like chip design, digital logic, and hardware modeling.
 </p>
 
+
+
+<div align="center">
+
+### 🌐 Coding Profiles  
+
+<a href="https://leetcode.com/u/karthik7565/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/profile/karthik7565">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/karthik7565">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/karthik7565">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+</div>
+
+
 <div align="center">
 
 ### 💻 My Tech Stack
