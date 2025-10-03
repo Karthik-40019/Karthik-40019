@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Karthik Potnuru</h1>
-<h3 align="center">📡 Electronics & Communication Engineering Student | VLSI & Digital Design Enthusiast</h3>
+<h2 align="center">👋 Hi, I'm KARTHIK POTNURU</h2>
+<h4 align="center">📡 Electronics & Communication Engineering Student | VLSI & Digital Design Enthusiast</h4>
 
 ###
 <p align="center">
 <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/git.gif" width="550">
 </p>
-<h1 align="center"> 🛠️ Tech Stack</h1>
+<h2 align="center"> 🛠️ TECH STACK</h2>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
@@ -28,7 +28,7 @@
 
 
 
-<h1 align="center">🌐 Coding Profiles</h1>
+<h2 align="center">🌐 CODING PROFILES</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/karthik-potnuru-a0b372310/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -47,8 +47,9 @@
   </a>
 </p>
 
-
 </div>
+
+<h2 align="center">📝 NOTES & REFERENCES</h2>
 <div style="white-space: nowrap;">
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://github.com/Karthik-40019/Karthik-40019/blob/main/aws.jpg" 
