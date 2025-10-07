@@ -77,7 +77,7 @@ Here are some of my personally prepared study notes and resources across key dom
 | 🧩 S.No | 📘 Subject | 🔗 Repository / Link |
 |:-------:|:-----------|:--------------------:|
 | 1 | ☁️ **AWS Cloud** | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://github.com/Karthik-40019/AWS-CLF-C02) |
-| 2 | ⚙️ **Digital Logic Design** | [![Digital Logic](https://img.shields.io/badge/Digital_Logic-00599C?style=for-the-badge&logo=circuitverse&logoColor=white)](https://github.com/Karthik-40019/Digital-Logic-Notes) |
+| 2 | ⚙️ **Digital Logic Design** | [![Digital Logic](https://img.shields.io/badge/Digital_Logic-00599C?style=for-the-badge&logo=circuitverse&logoColor=white)](https://github.com/Karthik-40019/Digital-Logic-Design) |
 | 3 | 💻 **Oracle Cloud Infrastructure (OCI)** | [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/Karthik-40019/OCI-Foundations) |
 
 </div>
