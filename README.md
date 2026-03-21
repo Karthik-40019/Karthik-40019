@@ -73,13 +73,14 @@ I'm actively seeking opportunities to apply my skills in top VLSI companies and 
 ## 🧠 My Notes  
 <div align="center">
 Here are some of my personally prepared study notes and resources across key domains 👇
+&nbsp;
 
 
 | 🧩 S.No | 📘 Subject | 🔗 Repository / Link |
 |:-------:|:-----------|:--------------------:|
-| 1 | ☁️ **AWS Cloud** | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://github.com/Karthik-40019/AWS-CLF-C02) |
-| 2 | ⚙️ **Verilog HDL** | [![Verilog_HDL](https://img.shields.io/badge/Verilog_HDL-00599C?style=for-the-badge&logo=circuitverse&logoColor=white)](https://github.com/Karthik-40019/Verilog-HDL) |
-| 3 | 💻 **Oracle Cloud Infrastructure (OCI)** | [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/Karthik-40019/OCI-Foundations) |
+| 1 | 💻 **C Programming** |[![C Programming](https://img.shields.io/badge/C%20Programming-2ECC71?style=for-the-badge)](https://github.com/Karthik-40019/C-Programming) |
+| 2 | ⚙️ **Verilog HDL** | [![Verilog](https://img.shields.io/badge/Verilog_HDL-00599C?style=for-the-badge&logo=circuitverse&logoColor=white)](https://github.com/Karthik-40019/Verilog-HDL) |
+| 3 | 🔌 **SoC Protocols** | [![SoC](https://img.shields.io/badge/SoC_Protocols-FF6F00?style=for-the-badge&logo=chip&logoColor=white)](https://github.com/Karthik-40019/On-Chip-Communication-Protocols) |
 
 </div>
 
