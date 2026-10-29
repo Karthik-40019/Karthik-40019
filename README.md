@@ -80,8 +80,6 @@ Here are some of my personally prepared study notes and resources across key dom
 |:-------:|:-----------|:--------------------:|
 | 1 | 💻 **C Programming** |[![C Programming](https://img.shields.io/badge/C%20Programming-2ECC71?style=for-the-badge)](https://github.com/Karthik-40019/C-Programming) |
 | 2 | ⚙️ **Verilog HDL** | [![Verilog](https://img.shields.io/badge/Verilog_HDL-00599C?style=for-the-badge&logo=circuitverse&logoColor=white)](https://github.com/Karthik-40019/Verilog-HDL) |
-| 3 | 🔌 **SoC Protocols** | [![SoC](https://img.shields.io/badge/SoC_Protocols-FF6F00?style=for-the-badge&logo=chip&logoColor=white)](https://github.com/Karthik-40019/On-Chip-Communication-Protocols) |
-
 </div>
 
 
